@@ -1,8 +1,15 @@
+/******* Users Show Page Styles *******************/
+
 .profile-block{
     color: #fff;
      h3{
         margin-top: 0px;
     }
+    
+.user-show-avatar{
+ height: 128px;
+ width: 128px;
+}
 }
 
 .job-title-icon{
@@ -25,4 +32,17 @@
 .contact-info{
     background-color: #5bc0de;
     border-color: #46b8da;
+}
+
+/******* Users Index Page Styles *******************/
+.user-index-avatar{
+    border-radius: 50%;
+}
+
+.white-bg{
+    background-color: white;
+}
+
+.gray-bg{
+    background-color: #F7F7F7;
 }
